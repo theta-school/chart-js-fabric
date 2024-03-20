@@ -126,7 +126,7 @@
   },
   "dependencies": {
     "chart.js": "^2.9.3",
-    "fabric": "^4.1.0",
+    "fabric": "^5.3.0-browser",
     "lodash.debounce": "^4.0.8",
     "lodash.merge": "^4.6.2"
   }
